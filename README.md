@@ -23,31 +23,30 @@ Bazi, also known as the **Four Pillars of Destiny**, is a traditional Chinese as
 
 *User-friendly tools to generate Bazi charts and analysis.*
 
-*   [YuanYu](https://yuanyucore.com) - A comprehensive Bazi chart calculator featuring elemental balance, luck pillars (Da Yun), and relationship compatibility.
+*   [YuanYu](https://www.yuanyucore.com/en/free-bazi-chart-calculator) - A comprehensive Bazi chart calculator featuring elemental balance, luck pillars (Da Yun), and relationship compatibility.
 *   [Astro-Databank Bazi Tools](https://www.astro.com) - Astrological database tools that sometimes include eastern system integrations.
-*   [Jyotish/Bazi Finder](#) *(Replace with a real competitor or resource you recommend)* - A simple tool for basic pillar calculation.
+*   [Jyotish/Bazi Finder](https://bazi-calculator.com/) - A simple tool for basic pillar calculation.
 
 ## Developer Tools & Libraries
 
 *Open-source libraries and codebases to calculate solar/lunar calendars, stems, and branches.*
 
 *   [Lunar-TypeScript](https://github.com/670a51da/lunar-typescript) - A powerful library for converting between solar (Gregorian) calendars and the Chinese lunar/solar calendars (includes Bazi stems and branches).
-*   [bazi-calculator (npm)](https://www.npmjs.com/) *(Search npm for active packages to link here)* - JavaScript/TypeScript utilities for calculating the four pillars.
+*   [bazi-calculator (npm)](https://www.npmjs.com/) - JavaScript/TypeScript utilities for calculating the four pillars.
 *   [pyswisseph](https://github.com/astronexus/pyswisseph) - Python bindings for the Swiss Ephemeris, useful for calculating precise solar terms (Jie Qi) required for Bazi.
 
 ## APIs & Data Services
 
 *Web APIs to integrate Bazi calculations into your own applications.*
 
-*   [Your Website API](https://yuanyucore.com/api) *(If you offer one)* - Simple REST API to retrieve Bazi chart data from birth inputs.
 *   [Hong Kong Observatory Lunar Calendar Conversion](https://www.hko.gov.hk/en/gts/astronomy/conversion97_text.htm) - Official data tables for high-accuracy solar-to-lunar conversions.
 
 ## Educational Resources
 
 *Articles, courses, and guides to learn the fundamentals of Bazi.*
 
-*   [Introduction to the Five Elements (Wu Xing)](https://yuanyucore.com/wu-xing-guide) - A beginner-friendly breakdown of the generative and destructive cycles of Wood, Fire, Earth, Metal, and Water.
-*   [Understanding the Ten Gods (Shi Shen)](https://yuanyucore.com/ten-gods) - An explanation of how the day master interacts with other elements in a chart.
+*   [Introduction to the Day Master](https://www.yuanyucore.com/en/knowledge/bazi) - A beginner-friendly breakdown of the ten Day Masters and how they influence personality, strengths, challenges, and life path.
+*   [Understanding the Ten Gods (Shi Shen)](https://www.yuanyucore.com/en/knowledge/10-gods) - An explanation of how the day master interacts with other elements in a chart.
 *   [Joey Yap's Bazi Articles](https://www.joeyyap.com) - Popular modern introductions to Bazi concepts and chart reading.
 
 ## Books & Historical Texts
