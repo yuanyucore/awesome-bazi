@@ -4,7 +4,7 @@
 
 Bazi, also known as the **Four Pillars of Destiny**, is a traditional Chinese astrological system that analyzes a person's destiny based on their birth year, month, day, and hour using the Heavenly Stems and Earthly Branches.
 
-*For an interactive, user-friendly Bazi chart generator and in-depth interpretations, visit [Your Website Name](https://yuanyucore.com).*
+*For an interactive, user-friendly Bazi chart generator and in-depth interpretations, visit [YuanYu](https://yuanyucore.com).*
 
 ---
 
@@ -23,7 +23,7 @@ Bazi, also known as the **Four Pillars of Destiny**, is a traditional Chinese as
 
 *User-friendly tools to generate Bazi charts and analysis.*
 
-*   [Your Website Name](https://yuanyucore.com) - A comprehensive Bazi chart calculator featuring elemental balance, luck pillars (Da Yun), and relationship compatibility.
+*   [YuanYu](https://yuanyucore.com) - A comprehensive Bazi chart calculator featuring elemental balance, luck pillars (Da Yun), and relationship compatibility.
 *   [Astro-Databank Bazi Tools](https://www.astro.com) - Astrological database tools that sometimes include eastern system integrations.
 *   [Jyotish/Bazi Finder](#) *(Replace with a real competitor or resource you recommend)* - A simple tool for basic pillar calculation.
 
