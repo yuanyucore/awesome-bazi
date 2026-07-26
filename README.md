@@ -23,6 +23,7 @@ Bazi, also known as the **Four Pillars of Destiny**, is a traditional Chinese as
 
 *User-friendly tools to generate Bazi charts and analysis.*
 
+*   [Suanleb](https://suanlem.asia/) - Browser-based Bazi four-pillar charts and readings backed by real calculation libraries, saved history, and transparent methodology; also includes Tarot and Vedic astrology.
 *   [YuanYu](https://www.yuanyucore.com/en/free-bazi-chart-calculator) - A comprehensive Bazi chart calculator featuring elemental balance, luck pillars (Da Yun), and relationship compatibility.
 *   [Astro-Databank Bazi Tools](https://www.astro.com) - Astrological database tools that sometimes include eastern system integrations.
 *   [Jyotish/Bazi Finder](https://bazi-calculator.com/) - A simple tool for basic pillar calculation.
