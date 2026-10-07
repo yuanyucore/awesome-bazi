@@ -26,6 +26,8 @@ Bazi, also known as the **Four Pillars of Destiny**, is a traditional Chinese as
 *   [YuanYu](https://www.yuanyucore.com/en/free-bazi-chart-calculator) - A comprehensive Bazi chart calculator featuring elemental balance, luck pillars (Da Yun), and relationship compatibility.
 *   [Astro-Databank Bazi Tools](https://www.astro.com) - Astrological database tools that sometimes include eastern system integrations.
 *   [Jyotish/Bazi Finder](https://bazi-calculator.com/) - A simple tool for basic pillar calculation.
+*   [SHIXU STUDIO](https://ichinghub.com/bazi) - Free BaZi chart in English, Simplified Chinese and Traditional Chinese. Applies true-solar-time correction by longitude and uses per-country timezone history rather than assuming the UTC offset in force was the rule in effect.
+
 
 ## Developer Tools & Libraries
 
